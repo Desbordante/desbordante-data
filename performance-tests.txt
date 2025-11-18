@@ -1,0 +1,6 @@
+CIPublicHighway20attr55k.csv
+adult9attr.csv
+iowa550k.csv
+iowa650k.csv
+mushroom+2attr1500.csv
+mushroom+3attr1300.csv
